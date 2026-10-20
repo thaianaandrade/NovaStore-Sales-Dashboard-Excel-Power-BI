@@ -1,8 +1,8 @@
 # NovaStore-Sales-Dashboard-Excel-Power-BI
 # 📊 Projeto 1: NovaStore Sales Dashboard (Excel & Power BI)
 
-![Power BI]
-![Excel]
+![Dashboard Interativo no Power BI](
+![Dados Brutos Excel](
 
 ---
 
