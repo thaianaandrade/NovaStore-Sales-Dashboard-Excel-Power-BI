@@ -1,8 +1,8 @@
 # NovaStore-Sales-Dashboard-Excel-Power-BI
 # 📊 Projeto 1: NovaStore Sales Dashboard (Excel & Power BI)
 
-![Dashboard Interativo no Power BI](Dashboard_Vendas_Rentabilidade.pbix)
-![Dados Brutos Excel](NovaStore_Projeto01.xlsx)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
