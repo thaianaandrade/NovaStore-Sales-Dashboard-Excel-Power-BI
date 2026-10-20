@@ -41,6 +41,7 @@ O projeto foi modelado seguindo a arquitetura *Star Schema (Esquema em Estrela)*
 ---
 
 ## 🖼️ Capturas do Dashboard Interativo
+![NovaStore Dashboard](Screenshots Dashboard de Vendas e Rentabilidade (LojaEletro).pbix.png)
 
 ![Dashboard Principal]
 
